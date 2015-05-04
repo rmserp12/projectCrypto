@@ -1,4 +1,6 @@
 # projectCrypto
 
-Welcome to the Repo for our course project. Below is the slide set containing all of our research, information, and documented transactions. All of the relevent documentation to each slide is in the notes at the bottom. Thank you for checking it out! 
+Welcome to the Repo for our course project. One one first sees an anonymous market places, they will probably start to comment on how it is just a way to buy drugs. While the sale of illegal substances potentially motivates the creation of these sites, there is so much more than what meets the eye. First off, us in the United States live in a world in which the government is not volatile and largely oppressive. However, in many parts of the world, this may not be the case. In these situations, an anonymous market could very well be the only way to get the goods you need on a day to day basis without fear of the government. Another widely overlooked value to these Dark markets is that they have brought Bitcoin, and its potential use as a currency, into the spotlight. Anytime a site manager gets busted or a site gets raided, this provides a great deal of media attention that Bitcoin needs in order to get off the ground.
+
+Below is the slide set containing all of our research, information, and documented transactions. All of the relevent documentation to each slide is in the notes at the bottom. Thank you for checking it out! 
 https://docs.google.com/presentation/d/1_tDAGl5b8ZYK-Wnuins3Bikuhh7TJqXoR7h92TYZG6U/edit#slide=id.p
